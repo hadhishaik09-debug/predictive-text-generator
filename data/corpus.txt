@@ -54,7 +54,7 @@ named entity recognition identifies names
 machine translation converts languages
 speech recognition converts audio
 image segmentation divides images
-object detection locates objects used
+object detection locates objects
 face recognition identifies people
 gesture recognition understands movements
 activity recognition classifies actions
