@@ -1,9 +1,12 @@
+import os
 from preprocess import load_corpus
 from ngram_model import NGramModel
 from markov_model import MarkovModel
 from predictor import load_user_words, add_user_word
 
-CORPUS_PATH = "data/corpus.txt"
+# Get the project root directory (parent of src directory)
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CORPUS_PATH = os.path.join(PROJECT_ROOT, "data", "corpus.txt")
 
 def main():
     print("Loading corpus...")
