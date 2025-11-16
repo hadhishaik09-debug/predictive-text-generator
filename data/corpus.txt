@@ -1,0 +1,60 @@
+hello how are you doing today
+i am working on a predictive text generator
+this project uses n grams and markov chains
+text prediction is useful in messaging apps
+machine learning is a powerful tool
+deep learning uses neural networks
+natural language processing helps computers understand text
+artificial intelligence is transforming technology
+python is a great programming language
+data science involves statistics and coding
+machine learning algorithms learn from data
+supervised learning requires labeled data
+unsupervised learning finds patterns
+reinforcement learning uses rewards
+neural networks have multiple layers
+convolutional networks are used for images
+recurrent networks process sequences
+transformers are state of the art
+natural language processing analyzes text
+computer vision recognizes objects
+data preprocessing is essential
+feature engineering improves models
+model evaluation uses test data
+cross validation ensures robustness
+hyperparameter tuning optimizes performance
+regularization prevents overfitting
+batch normalization speeds training
+dropout reduces overfitting effectively
+gradient descent finds optimal weights
+backpropagation computes gradients
+stochastic gradient descent is faster
+adam optimizer is widely used
+learning rate affects convergence speed
+epoch is one pass through data
+batch size affects memory usage
+validation set prevents overfitting
+test set measures final performance
+confusion matrix shows classification results
+precision and recall measure accuracy
+f one score balances precision recall
+roc curve evaluates classifier performance
+accuracy is not always the best metric
+random forest uses multiple trees
+decision trees make predictions
+support vector machines classify data
+k means clusters similar points
+principal component analysis reduces dimensions
+anomaly detection finds outliers
+time series forecasting predicts future
+recommendation systems suggest items
+sentiment analysis classifies opinions
+text classification categorizes documents
+named entity recognition identifies names
+machine translation converts languages
+speech recognition converts audio
+image segmentation divides images
+object detection locates objects
+face recognition identifies people
+gesture recognition understands movements
+activity recognition classifies actions
