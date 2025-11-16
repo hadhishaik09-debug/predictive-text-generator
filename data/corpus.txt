@@ -54,7 +54,19 @@ named entity recognition identifies names
 machine translation converts languages
 speech recognition converts audio
 image segmentation divides images
-object detection locates objects
+object detection locates objects uscd "c:\Users\Hadhi Shaik\Desktop\predictive-text-generator"
+
+git init
+
+git add .
+
+git commit -m "Initial commit: Predictive Text Generator with N-gram and Markov models"
+
+git branch -M main
+
+git remote add origin https://github.com/YOUR_USERNAME/predictive-text-generator.git
+
+git push -u origin main
 face recognition identifies people
 gesture recognition understands movements
 activity recognition classifies actions
